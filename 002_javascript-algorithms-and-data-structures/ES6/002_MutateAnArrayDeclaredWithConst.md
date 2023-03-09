@@ -1,6 +1,6 @@
 #Mutate an Array Declared with const
 
-If you are unfamiliar with `const`, check out [this challenge about the `const` keyword](../Basic%20JavaScript/const.md).
+If you are unfamiliar with `const`, check out [this challenge about the `const` keyword](../BasicJavaScript/010_DeclareARead-OnlyVariableWithTheConstKeyword.md).
 
 The `const` declaration has many use cases in modern JavaScript.
 
