@@ -25,6 +25,8 @@ The error can be seen in your browser console.
 
 So unlike `var`, when you use `let`, a variable with the same name can only be declared once.
 
+-----
+
 Update the code so it only uses the `let` keyword.
 
 ## Seed Code

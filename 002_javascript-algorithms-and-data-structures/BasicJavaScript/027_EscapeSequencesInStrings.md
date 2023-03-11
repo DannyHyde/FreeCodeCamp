@@ -14,6 +14,8 @@ Code  |  Output
 
 *Note that the backslash itself must be escaped in order to display as a backslash.*
 
+-----
+
 Assign the following three lines of text into the single variable `myStr` using escape sequences.
 
 FirstLine

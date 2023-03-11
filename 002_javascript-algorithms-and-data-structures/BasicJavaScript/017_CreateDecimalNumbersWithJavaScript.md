@@ -4,6 +4,8 @@ We can store decimal numbers in variables too. Decimal numbers are sometimes ref
 
 **Note:** when you compute numbers, they are computed with finite precision. Operations using floating points may lead to different results than the desired outcome. If you are getting one of these results, open a topic on the [freeCodeCamp forum](https://forum.freecodecamp.org/).
 
+-----
+
 Create a variable `myDecimal` and give it a decimal value with a fractional part (e.g. `5.7`).
 
 # Seed Code
